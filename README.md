@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafikpashashaik](https://github.com/Rafikpashashaik)
 
-- 💬 Ask me about **Freelancer**
+- 💬 Ask me about **Freelancing**
 
 - 📫 How to reach me **shaikrafikpasha786@gmail.com**
 
