@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End / Back-End / Full-Stack - Projects**
 
-- 🤝 I’m looking for help with **Full-Stak**
+- 🤝 I’m looking for help with **Full-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafikpashashaik](https://github.com/Rafikpashashaik)
 
