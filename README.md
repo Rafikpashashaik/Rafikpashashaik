@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafik pasha Sheik</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
-- 🌱 I’m currently learning **Dotnet Core, ASP.NET, MVC**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Front-End / Back-End / Full-Stack - Projects**
 
